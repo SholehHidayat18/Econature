@@ -32,7 +32,7 @@ const Navbar = () => {
           fontSize: '1.5rem',
           fontWeight: 'bold'
         }}>
-          ECONATURE.
+          ECONATURE
         </a>
         <button onClick={toggleMenu} style={{
           display: 'none',
